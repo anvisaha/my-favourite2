@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+    background-repeat:no-repeat;
+}
+img {
+  border-radius: 50%;
+  width: 300px;
+    height: 300px;
+  margin-bottom: 50px;
+}
+h1 {
+text-shadow: 2px 2px #F8BBDO;
+  font-size: 40px;
+    font-family: 'Yusei Magic', sans-serif;
+}
+p {
+  font-size: 18px;
+  color:black;
+}
+#bio {
+  padding:20px;
+  font-size:18px;
+  text-align:center;
+}
+.link {
+    float: right; 
+    color: #fff; 
+    padding-top: 5px; 
+    padding-left: 9px; 
+    padding-right: 9px; 
+    padding-bottom: 5px; 
+    font-family:fantasy; 
+    font-size: 20px
+}
+#welcome {
+  background: linear-gradient(#eb4f34 0%, #ff5eaf 100%);
+    text-align: center;
+}
+html {
+    scroll-behavior: smooth;
+}
+.link:hover {
+background-color: cornflowerblue;
+}
